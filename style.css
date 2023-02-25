@@ -1,0 +1,25 @@
+form {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 16px;
+  }
+  
+  label {
+    margin-right: 16px;
+  }
+  
+  button {
+    margin-left: 16px;
+  }
+  
+  #qr-code-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  canvas {
+    margin-right: 16px;
+    margin-bottom: 16px;
+  }
+  
